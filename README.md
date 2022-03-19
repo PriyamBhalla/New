@@ -3,9 +3,6 @@ Power BI dashboard for Sales Analytics
 ![image](https://user-images.githubusercontent.com/65599483/150499497-7799312d-e1d8-4b39-b10e-fb81a953b34b.png)
 
 
-You can access this Power BI Dashboard here :
-
-https://app.powerbi.com/view?r=eyJrIjoiMjQ5Y2Q2NTctY2YxMy00MGQwLTgwYmMtZWU2NjNjNDZjNTZkIiwidCI6ImM3ZjhjM2NlLTM4MjUtNGVjZi05ODdjLTFmODc4NmQwMTlhMiJ9
 
 This is a Power BI dashboard created with the help of sales data provided in the form of Mysql file. This dashboard helps us to analyse the sales of the product, revenue generated,Profit Margin,Markets with most sales and profit etc.
 
